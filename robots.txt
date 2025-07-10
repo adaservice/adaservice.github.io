@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://adaservice.github.io/sitemap.xml
