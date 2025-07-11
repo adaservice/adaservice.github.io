@@ -1,4 +1,4 @@
 User-Agent: *
-Allow: /
+Disallow: /private/
 
 Sitemap: https://adaservice.github.io/sitemap.xml
